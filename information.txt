@@ -1,0 +1,11 @@
+
+morgan :- it is used to log a message when we make a request
+nodemon :- it restarts the server automatically when we make changes in the project
+ejs :- it is used to create a dynam html
+body-parser :- it allows us to serialize the data and access the form data using body property
+dotenv :- it seprate the secert from your source code it is used for incolabrative environment where u not want to share your database login credencial with other people
+mongoose :- it used for connecting the mongodb database
+axios :- it makes it easy to make request in express application
+
+
+Next 
