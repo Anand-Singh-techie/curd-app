@@ -1,4 +1,4 @@
-const { request } = require('express');
+const request = require('express');
 var Userdb = require('../model/model');
 
 // create and save new user
